@@ -27,7 +27,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          My Static Site
+          My Static Site!
         </Link>
       </h1>
     </div>
